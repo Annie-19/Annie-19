@@ -6,4 +6,4 @@
  Currently learning AI/ML
  Aspiring to be an AI Engineer
  Documenting my journey as i learn
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annie-19)](https://github.com/Annie-19/github-readme-stats)
+ [![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annie-19)](https://github.com/Annie-19/github-readme-stats)
