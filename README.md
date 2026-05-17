@@ -12,4 +12,4 @@
  Documenting my journey as i learn
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annie-19&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annie-19&layout=compact&theme=tokyonight)
