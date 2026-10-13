@@ -18,15 +18,22 @@
 
 
 
-##  Cybersecurity Learning & Achievements
+## 🔐 Cybersecurity Learning & Achievements
 
-I'm building my cybersecurity skills through hands-on labs and continuous learning.
+I'm building my cybersecurity skills through structured training, hands-on labs, and continuous learning as part of my TryHackMe cybersecurity scholarship.
 
-- 🛡️ **TryHackMe:** First Four badge earned
-- 🌐 **Completed:** Introduction to Cybersecurity
-- 🌐 **Completed:** Network Fundamentals
-- 📚 **Currently learning:** How the Web Works
-- 🎯 **Next focus:** Computer Fundamentals, OS Basics, and Attacks and Defenses
+* 🛡️ **TryHackMe Achievement:** First Four badge earned
+* ✅ **Completed:** Introduction to Cybersecurity
+* ✅ **Completed:** Network Fundamentals
+* ✅ **Completed:** Computer Fundamentals
+* ✅ **Completed:** How the Web Works
+* 💻 **Currently Learning:** Operating System Basics
+* 🎯 **Next Focus:** Attacks and Defenses
+
+📚 **Documenting my journey:** I record key concepts, practical exercises, lessons learned, and cybersecurity insights in my [Cybersecurity Learning Journey repository](https://github.com/Annie-19/Cybersecurity-Learning-Journey).
+
+*Learn the concepts. Practise in authorized environments. Document the process. Keep improving.*
+
 
 [View my TryHackMe profile](https://tryhackme.com/p/E.Annie)
 
