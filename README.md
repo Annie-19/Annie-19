@@ -15,20 +15,57 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annie-19&layout=compact&theme=tokyonight)
 
 
+##  Cybersecurity Learning Journey
 
+**Platform:** TryHackMe  
+**Scholarship Program:** CyberBridge Kenya
 
+###  Completed Learning Path
 
-## 🔐 Cybersecurity Learning & Achievements
+**TryHackMe Pre Security — Completed**
 
-I'm building my cybersecurity skills through structured training, hands-on labs, and continuous learning as part of my TryHackMe cybersecurity scholarship.
+- Earned the Pre Security certificate.
+- Completed the foundational learning path.
+- Developed foundational knowledge of networking, web technologies, computer systems, operating systems, and cybersecurity concepts.
 
-* 🛡️ **TryHackMe Achievement:** First Four badge earned
-* ✅ **Completed:** Introduction to Cybersecurity
-* ✅ **Completed:** Network Fundamentals
-* ✅ **Completed:** Computer Fundamentals
-* ✅ **Completed:** How the Web Works
-* 💻 **Currently Learning:** Operating System Basics
-* 🎯 **Next Focus:** Attacks and Defenses
+###  Scholarship Learning Paths
+
+The scholarship includes three separate learning paths:
+
+- [x] Pre Security — Completed
+- [ ] Cybersecurity 101 — Next learning goal
+- [ ] Junior Penetration Tester — Upcoming
+
+###  Practical Learning Log
+
+I document the concepts I learn, commands I practise, observations from authorized labs, and lessons learned.
+
+Each entry focuses on:
+
+- Learning objectives
+- Key concepts
+- Practical exercises and observations
+- Security relevance
+- Personal takeaways
+
+###  Skills in Development
+
+- Cybersecurity fundamentals
+- Computer networking
+- Web technologies and HTTP/HTTPS
+- Operating systems and Linux fundamentals
+- Security analysis
+- Digital forensics fundamentals
+
+###  Learning Approach
+
+Learn the concept. Practise in an authorized environment. Document the process. Review and improve.
+
+### 🔗 Profiles
+
+- [GitHub](https://github.com/Annie-19)
+- [TryHackMe](https://tryhackme.com/p/E.Annie)
+
 
 📚 **Documenting my journey:** I record key concepts, practical exercises, lessons learned, and cybersecurity insights in my [Cybersecurity Learning Journey repository](https://github.com/Annie-19/Cybersecurity-Learning-Journey).
 
